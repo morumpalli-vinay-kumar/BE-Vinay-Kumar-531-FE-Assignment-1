@@ -1,0 +1,34 @@
+{
+  "name": "BE-Vinay-Kumar-531-FE-Assignment-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+      "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morumpalli-vinay-kumar/BE-Vinay-Kumar-531-FE-Assignment-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morumpalli-vinay-kumar/BE-Vinay-Kumar-531-FE-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/morumpalli-vinay-kumar/BE-Vinay-Kumar-531-FE-Assignment-1#readme",
+  "devDependencies": {
+    "browserslist": "^4.23.3",
+    "eslint": "^9.10.0",
+    "prettier": "^3.3.3",
+    "vite": "^5.4.6"
+  },
+  "dependencies": {
+    "14": "^3.1.6"
+  },
+  "description": ""
+}
